@@ -1,0 +1,1 @@
+# amagi-redux-typescript
