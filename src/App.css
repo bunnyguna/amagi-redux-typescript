@@ -1,0 +1,15 @@
+.App {
+  width: 1000px;
+  margin: auto;
+  padding-top: 50px;
+}
+.video-details {
+  display: flex;
+  margin-top: 30px;
+}
+
+.empty-video, .youtube-card {
+  width: 70%;
+  margin-right: 30px;
+}
+
