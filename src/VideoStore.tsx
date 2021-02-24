@@ -14,7 +14,6 @@ import {
 } from '../src/components/VideoList';
 
 function VideoStore(props: IVideoStoreProps) {
-  console.log({ props });
 
   const getUserEnteredValue = async (value: string = '') => {
     const result = await getVideoList(value);
